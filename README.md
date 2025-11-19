@@ -1,6 +1,8 @@
 # windows-vm2ami-prep #
 
 [![GitHub Build Status](https://github.com/cisagov/windows-vm2ami-prep/workflows/build/badge.svg)](https://github.com/cisagov/windows-vm2ami-prep/actions)
+[![License](https://img.shields.io/github/license/cisagov/windows-vm2ami-prep)](https://spdx.org/licenses/)
+[![CodeQL](https://github.com/cisagov/windows-vm2ami-prep/workflows/CodeQL/badge.svg)](https://github.com/cisagov/windows-vm2ami-prep/actions/workflows/codeql-analysis.yml)
 
 This is a generic skeleton project that can be used to quickly get a
 new [cisagov](https://github.com/cisagov) GitHub project started.
